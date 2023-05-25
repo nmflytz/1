@@ -52,4 +52,4 @@ def focus_timer(minutes):
 
         print(f"剩余时间：{int(minutes):02d}:{int(seconds):02d}")
 
-        time.sleep(1)的
+        time.sleep(1)
